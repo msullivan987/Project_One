@@ -1,1 +1,3 @@
 #branching exercise file
+#tbh unaware of what is happening.... im assuming everyone else got the merge commit add thing done to the master....
+#i have a sleeping/snoring dog in my lap and am trying to catch up on these feature merge things
